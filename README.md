@@ -18,4 +18,6 @@ I am Shahadat, a CSE student in Bangladesh
 
 I'm currently learning basic web design
 
+Lost track in web design and shifted to cpp, I wanna continue both honesty 
+
 Let's see if I'm on the right track
